@@ -1,0 +1,25 @@
+p1{
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+form{
+    width: 100px;
+    margin: 50px auto;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 10;
+}
+
+h1{
+    font-family: serif;
+    padding: 10px;
+}
+
+label{
+    padding: 10px;
+    font-size: 20px;
+}
+
